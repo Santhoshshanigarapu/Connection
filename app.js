@@ -27,6 +27,7 @@ mongoose.connect("mongodb://127.0.0.1:27017/connect", { useNewUrlParser: true, u
       ctype: "Front end",
       videos: 80,
       author: "thapa",
+      author: "thapa",
       active: true,
     });
 
