@@ -30,6 +30,7 @@ mongoose.connect("mongodb://127.0.0.1:27017/connect", { useNewUrlParser: true, u
       author: "thapa",
       author: "thapa",
       author: "thapa",
+      author: "thapa",
       active: true,
     });
 
