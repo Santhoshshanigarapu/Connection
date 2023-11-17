@@ -14,6 +14,8 @@ mongoose.connect("mongodb://127.0.0.1:27017/connect", { useNewUrlParser: true, u
       videos: Number,
       author: String,
       active: Boolean,
+      author: "thapa",
+
       date: {
         type: Date,
         default: Date.now,
